@@ -1,0 +1,10 @@
+#Active-Win
+dotnet/ActiveWin/ActiveWin/bin
+dotnet/ActiveWin/ActiveWin/obj
+dotnet/ActiveWin/ActiveWin/csTimeEntries.json
+
+dotnet/ActiveWin/ActiveWin.Data/bin
+dotnet/ActiveWin/ActiveWin.Data/obj
+
+dotnet/ActiveWin/ActiveWin.Shared/bin
+dotnet/ActiveWin/ActiveWin.Shared/obj

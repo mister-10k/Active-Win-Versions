@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "active-win": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Kwabe\\OneDrive\\Documents\\Source\\Electron\\Laps-Electron-React\\app\\data\\ActiveWin\\"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{529550FE-32B0-4AB3-9A89-DF4A539F0421}|Default">
+  <MonoDevelop.Ide.ItemProperties.ActiveWin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActiveWin/Program.cs">
+    <Files>
+      <File FileName="ActiveWin/Program.cs" Line="126" Column="52" />
+      <File FileName="ActiveWin.Data/ActiveWinDL.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActiveWin" expanded="True">
+            <Node name="ActiveWin" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ActiveWin.Data" expanded="True" />
+            <Node name="ActiveWin.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/ActiveWin/Program.cs" relfile="ActiveWin/Program.cs" line="161" column="1" />
+      <Breakpoint file="/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/ActiveWin/Program.cs" relfile="ActiveWin/Program.cs" line="60" column="1" />
+      <Breakpoint file="/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/ActiveWin/Program.cs" relfile="ActiveWin/Program.cs" line="88" column="1" />
+      <Breakpoint file="/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/ActiveWin/Program.cs" relfile="ActiveWin/Program.cs" line="84" column="1" />
+      <Breakpoint file="/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/ActiveWin/Program.cs" relfile="ActiveWin/Program.cs" line="45" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

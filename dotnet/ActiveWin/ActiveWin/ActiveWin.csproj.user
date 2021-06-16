@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Kwabe\OneDrive\Documents\Source\Electron\laps\src\data\ActiveWin\ActiveWin\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>/Users/kwabena/Documents/Source/Electron/Laps-Electron/src/data/ActiveWin/</StartArguments>
+    <ExternalConsole>true</ExternalConsole>
+    <MonoNoSmp>false</MonoNoSmp>
+    <MonoPath></MonoPath>
+    <MonoWindowsFormsTheme></MonoWindowsFormsTheme>
+    <MonoThreadsPerCpu></MonoThreadsPerCpu>
+    <MonoAspNetNoDelete>false</MonoAspNetNoDelete>
+    <MonoTraceListener></MonoTraceListener>
+    <MonoXExceptions>false</MonoXExceptions>
+    <MonoXDebug>false</MonoXDebug>
+    <MonoGcType>Default</MonoGcType>
+    <MonoLlvm>false</MonoLlvm>
+    <MonoNoLlvm>false</MonoNoLlvm>
+    <MonoDesktopMode>false</MonoDesktopMode>
+    <MonoServerMode>false</MonoServerMode>
+    <MonoAdditionalOptions></MonoAdditionalOptions>
+    <MonoArchitecture>Default</MonoArchitecture>
+    <Architecture></Architecture>
+    <TargetRuntimeId></TargetRuntimeId>
+  </PropertyGroup>
+</Project>
